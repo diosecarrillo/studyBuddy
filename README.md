@@ -1,1 +1,1 @@
-This is my studyBuddy website that I created for my COGS 3 class https://diosecarrillo.github.io/studyBuddy/  
+This is my studyBuddy website that I created with Bootstrap https://diosecarrillo.github.io/studyBuddy/  
